@@ -27,6 +27,10 @@ x86/
 build/
 bld/
 [Bb]in/
+**/bin/Debug/
+**/bin/Release/
+**/obj/
+
 [Oo]bj/
 [Oo]ut/
 msbuild.log
