@@ -14,3 +14,19 @@ C:\Users\Rafa Sequeira\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\Gra
 C:\Users\Rafa Sequeira\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
 C:\Users\Rafa Sequeira\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
 C:\Users\Rafa Sequeira\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.exe
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.dll
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.dll
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+C:\Users\SOPORTE01\source\repos\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache

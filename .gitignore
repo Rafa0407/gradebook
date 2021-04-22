@@ -30,6 +30,8 @@ bld/
 **/bin/Debug/
 **/bin/Release/
 **/obj/
+**/bin/
+
 
 [Oo]bj/
 [Oo]ut/
