@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SOPORTE01\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\Rafa Sequeira\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SOPORTE01\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\Rafa Sequeira\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SOPORTE01\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\Rafa Sequeira\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\SOPORTE01\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-        "packagesPath": "C:\\Users\\SOPORTE01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SOPORTE01\\source\\repos\\gradebook\\src\\GradeBook\\obj\\",
+        "projectPath": "C:\\Users\\Rafa Sequeira\\source\\repos\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "packagesPath": "C:\\Users\\Rafa Sequeira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafa Sequeira\\source\\repos\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SOPORTE01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafa Sequeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

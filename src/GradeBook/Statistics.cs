@@ -4,6 +4,8 @@ namespace GradeBook{
         public double Low; 
         public double High; 
 
+        public char Letter; 
+
         
     }
 }
